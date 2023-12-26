@@ -5,14 +5,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abi076&label=Profile%20views&color=0e75b6&style=flat" alt="abi076" /> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱
 
 - 💬 Ask me about **C++,Front End**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abirami-p-61b34224b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abirami-p-61b34224b/" height="30" width="40" /></a>
-<a href="https://instagram.com/_a.bii._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_a.bii._" height="30" width="40" /></a>
+<a href="https://instagram.com/abirami_vp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_a.bii._" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/abira4769" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abira4769" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/perumalabi76" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="perumalabi76" height="30" width="40" /></a>
 </p>
